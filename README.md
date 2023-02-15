@@ -1,5 +1,6 @@
-# Razorpay Payment Example (React JS)
+# Razorpay Payment Example (React JS) 
 
+* To test this application visit https://3dwesupport.github.io/razorpay-payment-example/ *
 This repository displays how to integrate payments(frontend) with RAZORPAY(https://razorpay.com/docs/#home-payments).
 
 ## You can use this repository for:
